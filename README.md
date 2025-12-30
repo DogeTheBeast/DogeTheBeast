@@ -14,4 +14,8 @@
 
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#131](undefined) in [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect)
+2. ❌ Merged PR [#1](undefined) in [DogeTheBeast/i3-resurrect](https://github.com/DogeTheBeast/i3-resurrect)
+3. 💪 Opened PR [#1](undefined) in [DogeTheBeast/i3-resurrect](https://github.com/DogeTheBeast/i3-resurrect)
+<!--END_SECTION:activity-->
 
