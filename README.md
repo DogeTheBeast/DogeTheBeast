@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋, I'm Ratiq Narwal
 
-<!--
-**DogeTheBeast/DogeTheBeast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a 4th year Computer Engineering Student at the University of British Columbia
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on increasing my open source contributions
+- 🌱 I’m currently learning front-end web development
+- 👯 I’m looking to collaborate on creating my own terminal emulator
+- 🤔 I’m looking for help with getting a job
+- 📫 How to reach me: Link email
+- 🔭 I'm passionate about working with low-level programming and system architecture
+- 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Where To Find Me:
+
+
+<!--START_SECTION:activity-->
+
