@@ -14,10 +14,10 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#130](https://github.com/jamesgeorge007/github-activity-readme/issues/130) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#106](https://github.com/jamesgeorge007/github-activity-readme/issues/106#issuecomment-3702472260) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 🗣 Commented on [#127](https://github.com/jamesgeorge007/github-activity-readme/issues/127#issuecomment-3701580747) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#128](https://github.com/jamesgeorge007/github-activity-readme/issues/128#issuecomment-3701477884) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 💪 Opened PR [#131](undefined) in [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect)
+1. 💪 Opened PR [#131](undefined) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. ❗ Opened issue [#130](https://github.com/jamesgeorge007/github-activity-readme/issues/130) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🗣 Commented on [#106](https://github.com/jamesgeorge007/github-activity-readme/issues/106#issuecomment-3702472260) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#127](https://github.com/jamesgeorge007/github-activity-readme/issues/127#issuecomment-3701580747) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#128](https://github.com/jamesgeorge007/github-activity-readme/issues/128#issuecomment-3701477884) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
