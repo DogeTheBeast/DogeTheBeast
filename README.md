@@ -14,7 +14,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/JonnyHaystack/i3-resurrect/pull/131#issuecomment-3783040258) in [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect)
+1. 🎉 Merged PR [#131](https://github.com/JonnyHaystack/i3-resurrect/pull/131) in [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect)
 2. 🗣 Commented on [#82](https://github.com/jamesgeorge007/github-activity-readme/issues/82#issuecomment-3704354943) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 3. 🎉 Merged PR [#131](https://github.com/jamesgeorge007/github-activity-readme/pull/131) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 4. 💪 Opened PR [#131](https://github.com/jamesgeorge007/github-activity-readme/pull/131) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
